@@ -1,2 +1,2 @@
 http://backend.course/#vitaliyMiskevuch1212
-http://backend.course?name="Vitaliy Miskevich"&vitaliyMiskevuch1212&group="Ð¤ÐÐ-23Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
+http://backend.course?name="ÐÑÑÐ°Ð»ÑÐ¹ ÐÑÑÑÐºÐµÐ²Ð¸Ñ"&vitaliyMiskevuch1212&group="Ð¤ÐÐ-23Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
