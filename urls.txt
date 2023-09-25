@@ -1,2 +1,3 @@
 http://backend.course/#vitaliyMiskevuch1212
 http://backend.course?name="ÐÑÑÐ°Ð»ÑÐ¹ ÐÑÑÑÐºÐµÐ²Ð¸Ñ"&vitaliyMiskevuch1212&group="Ð¤ÐÐ-23Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20200601&period=m&json
