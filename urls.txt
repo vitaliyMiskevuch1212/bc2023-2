@@ -1,3 +1,3 @@
 http://backend.course/#vitaliyMiskevuch1212
-http://backend.course?name="ÐÑÑÐ°Ð»ÑÐ¹ ÐÑÑÑÐºÐµÐ²Ð¸Ñ"&vitaliyMiskevuch1212&group="Ð¤ÐÐ-23Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
+http://backend.course?name=%22%D0%92%D1%96%D1%82%D0%B0%D0%BB%D1%96%D0%B9%20%D0%9C%D1%96%D1%81%D1%8C%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%22&github_name=vitaliyMiskevuch1212&group=%22%D0%A4%D0%B5%D1%96-23c%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
 https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20200601&period=m&json
